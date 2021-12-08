@@ -1,6 +1,6 @@
 <div align=center>
 
-<img alt="Yiyang Sun" src="./assets/li.jpg" width=100 />
+<img alt="Suju Li" src="./assets/li.jpg" width=100 />
 
 # Hi😄, I am Li(family name) Suju(given name)
 
@@ -66,8 +66,8 @@ I love Front End technologys. :heart:
 
 &nbsp;
 ### goSearch
-<a href="https://www.bugusport.com/">
-<img alt="Bugu Sport" src="./assets/gologo.png" width=100 />
+<a href="http://www.gosearch.cn/">
+<img alt="goSearch" src="./assets/gologo.png" width=100 />
 </a>
 
 [![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=LI-SUJU&repo=gosearch.github.io)](https://github.com/LI-SUJU/gosearch.github.io)
