@@ -22,7 +22,7 @@ Student of SCUT :school:
 
 Major in Software Engineering :man_technologist:
 
-speak 5 languages (Mandarin,English,Japanese,Cantonese,Hakka) :heart:
+Speak 5 languages (Mandarin,English,Japanese,Cantonese,Hakka) :heart:
 
 
 ## Orientation :dart:
