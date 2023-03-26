@@ -29,7 +29,7 @@ Speak 5 languages (Mandarin,English,Japanese,Cantonese,Hakka) :heart:
 
 I love coding. :heart:
 
-I love Front End technologys. :heart:
+I love full stack technologys. :heart:
 
 <p>
 
