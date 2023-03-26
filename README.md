@@ -44,6 +44,8 @@ I love full stack technologys. :heart:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-282c34?logo=react)
 ![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
+  
+![MiniProgram]([https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white](https://img.shields.io/badge/< >-<daml>-<yellow>))
 
 </p>
 
