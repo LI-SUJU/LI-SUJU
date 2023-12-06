@@ -2,7 +2,7 @@
 
 <img alt="Suju Li" src="./assets/li.jpg" width=100 />
 
-# I am Li(family name) Suju(given name)
+# Suju Li
 
 
 
