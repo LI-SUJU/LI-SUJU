@@ -2,7 +2,7 @@
 
 <img alt="Suju Li" src="./assets/li.jpg" width=100 />
 
-# Hi😄, I am Li(family name) Suju(given name)
+# I am Li(family name) Suju(given name)
 
 
 
@@ -18,40 +18,9 @@
 
 ## Introduction :raised_hands:
 
-Student of SCUT :school:
+Student of Leiden U, Netherlands :school:
 
-Major in Software Engineering :man_technologist:
-
-Speak 5 languages (Mandarin,English,Japanese,Cantonese,Hakka) :heart:
-
-
-## Orientation :dart:
-
-I love coding. :heart:
-
-I love full stack technologys. :heart:
-
-<p>
-
-![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-
-</p>
-
-<p>
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-282c34?logo=react)
-![MiniProgram](https://img.shields.io/badge/-MiniProgram-07c160?logo=wechat&logoColor=white)
-
-</p>
-
-<p>
-
-![Webpack](https://img.shields.io/badge/-Webpack-1a6bac?logo=webpack)
-
-</p>
+Major in Computer Science :man_technologist:
 
 ## Online Projects :computer:
 
