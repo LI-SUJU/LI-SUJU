@@ -18,7 +18,7 @@
 
 ## Introduction :raised_hands:
 
-Student of Leiden U, Netherlands :school:
+Master student of Leiden U, Netherlands :school:
 
 Major in Computer Science :man_technologist:
 
