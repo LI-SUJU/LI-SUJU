@@ -31,11 +31,6 @@ Major in Computer Science :man_technologist:
 
 [![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=HeXavi8&repo=Bugu-Sport)](https://github.com/HeXavi8/Bugu-Sport)
 
-&nbsp;
-### goSearch
-<a href="http://www.gosearch.cn/">
-<img alt="goSearch" src="./assets/gologo.png" width=100 />
-</a>
 
 [![Config Router](https://github-readme-stats.vercel.app/api/pin/?username=LI-SUJU&repo=gosearch.github.io)](https://github.com/LI-SUJU/gosearch.github.io)
 
