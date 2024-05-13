@@ -1,7 +1,5 @@
 <div align=center>
 
-<img alt="Suju Li" src="./assets/li.jpg" width=100 />
-
 # Suju Li
 
 
